@@ -1,1 +1,1 @@
-# story_generator
+# randomjokes_generator
